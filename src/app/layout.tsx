@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: '',
-  description: '',
+  title: 'Medi Translate',
+  description: 'by <The Elite>',
 };
 
 export default function RootLayout({
